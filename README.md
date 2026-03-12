@@ -1,4 +1,3 @@
-NEW_FILE_CODE
 # EyeSeed 🌱
 
 > **DATT3700 Collaborative Project Development**  

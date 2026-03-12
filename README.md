@@ -27,7 +27,7 @@ Interactive eye animation preview tool for ESP32-driven LCD display in embodied 
 ## 🚀 Quick Start
 
 ### Online Demo
-Visit: `https://dattodigm.github.io/eyeseed/`
+Visit: https://dattodigm.github.io/eyeseed/
 
 ### Local Development
 
@@ -196,11 +196,77 @@ Feel free to fork and adapt for your own projects!
 
 ## TODO
 
-- [ ] 图像转换工具 - 将 PNG/JPEG 转换为 C header 格式
-- [ ] 增加更多预设眼睛设计
-- [ ] 优化动画性能，支持更高帧率
-- [ ] 添加更多交互控制，如眨眼频率、瞳孔形状等
-- [ ] 眼睛动画序列录制
+### 🚧 Roadmap / 路线图
+
+- [ ] **Image Converter Tool** - Convert PNG/JPEG to C header format  
+      **图像转换工具** - 将 PNG/JPEG 转换为 C 头文件格式
+
+- [ ] **More Preset Eye Designs** - Expand library with custom eye styles  
+      **增加更多预设眼睛设计** - 扩展自定义眼睛样式库
+
+- [ ] **Animation Performance Optimization** - Support higher frame rates (>60 FPS)  
+      **优化动画性能** - 支持更高帧率（>60 FPS）
+
+- [ ] **Enhanced Interactive Controls** - Blink frequency, pupil shape customization  
+      **添加更多交互控制** - 如眨眼频率、瞳孔形状等
+
+- [ ] **Eye Animation Sequence Recording & Playback**  
+      **眼睛动画序列录制与回放**
+
+- [ ] **Multi-language Support Expansion** - Add Japanese, Korean, etc.  
+      **多语言支持扩展** - 添加日语、韩语等
+
+- [ ] **Mobile Responsive Design** - Touch-friendly controls for smartphones/tablets  
+      **移动端响应式设计** - 适配手机/平板的触控操作
+
+- [ ] **Real-time Collaboration Mode** - Multiple users preview simultaneously  
+      **实时协作模式** - 多用户同时预览
+
+- [ ] **Export Configuration Presets** - Save and share LCD settings  
+      **导出配置预设** - 保存和分享 LCD 设置
+
+- [ ] **WebUSB Support** - Direct firmware upload from browser  
+      **WebUSB 支持** - 从浏览器直接上传固件
+
+- [ ] **3D Preview Mode** - Simulate eye appearance on curved surfaces  
+      **3D 预览模式** - 模拟曲面显示效果
+
+- [ ] **Audio Reactive Eyes** - Synchronize animation with sound input  
+      **音频反应眼睛** - 根据声音输入同步动画
+
+- [ ] **Team Documentation** - Contribution guidelines for teammates  
+      **团队文档** - 为队友添加贡献指南
+
+- [ ] **Hardware Integration Guide** - ESP32 pinout and wiring diagrams  
+      **硬件集成指南** - ESP32 引脚图和接线图
+
+- [ ] **Performance Profiling Tools** - Frame timing and memory usage analysis  
+      **性能分析工具** - 帧时间和内存使用分析
+
+### 💡 Additional TODO Suggestions
+
+> #### 🎨 Design & UX
+> - **Custom Eye Creator** - Visual editor to design eyes without coding
+> - **Color Palette Presets** - Pre-configured color schemes for different moods/themes
+> - **Preview on Different Screen Shapes** - Circle, rectangle, custom masks
+> 
+> #### 🔧 Technical
+> - **TypeScript Migration** - Better type safety and IDE support
+> - **Unit Tests** - Test rendering functions and layer parsing
+> - **CI/CD Pipeline** - Automated testing on pull requests
+> - **Bundle Size Optimization** - Reduce initial load time
+> 
+> #### 🌸 Project-Specific (Embodied AI Flower)
+> - **Flower Growth Animation** - Integrate eye movement with flower blooming stages
+> - **Environmental Sensor Integration** - React to light, temperature, touch
+> - **Multi-Flower Synchronization** - Coordinate eyes across multiple installations
+> - **Day/Night Cycle Adaptation** - Auto-adjust based on ambient light
+> 
+> #### 👥 Team Collaboration
+> - **Code Comments in Both Languages** - Ensure all teammates understand
+> - **API Documentation** - For future developers
+> - **Video Tutorials** - Quick start guide for non-technical team members
+- **Troubleshooting Guide** - Common issues and solutions
 
 ## 📞 Contact
 
@@ -214,4 +280,4 @@ For questions about this project, please open an issue on GitHub.
 *Bringing digital eyes to botanical installations 🎨👁️🌸*
 
 </div>
-   ```
+

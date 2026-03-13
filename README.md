@@ -27,7 +27,7 @@ Interactive eye animation preview tool for ESP32-driven LCD display in embodied 
 ## 🚀 Quick Start
 
 ### Online Demo
-Visit: https://dattodigm.github.io/eyeseed/
+Visit: https://dattodigm.github.io/EyeSeed/
 
 ### Local Development
 
